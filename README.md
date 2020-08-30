@@ -1,1 +1,1 @@
-# gitalk-issues
+# blog-comments
